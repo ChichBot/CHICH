@@ -1,1 +1,1 @@
-# CHICH
+MrHATSBot
